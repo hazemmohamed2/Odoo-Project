@@ -4,8 +4,7 @@
 
 
 # class pharmacy_module(models.Model):
-#     _name = 'pharmacy_module.pharmacy_module'
-#     _description = 'pharmacy_module.pharmacy_module'
+
 
 #     name = fields.Char()
 #     value = fields.Integer()
